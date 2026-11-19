@@ -1,0 +1,7 @@
+.venv/
+.build/
+.chart-data-*/
+**/.keras/
+**/.mpl/
+**/__pycache__/
+.DS_Store
